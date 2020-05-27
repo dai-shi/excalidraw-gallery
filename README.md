@@ -14,8 +14,8 @@ This is an experimental tool to show
 
 If the spreadsheet is publically readable,
 it will show the table with previews (which are animatable!).
-If the spreadsheet is private, you would see a Google Sign-in
-popup to login. (Notice, this app is not verified by Google.)
+If the spreadsheet is protected, you will see a Google Sign-in
+popup to login. (Notice this app is not verified by Google.)
 
 ## Example
 
