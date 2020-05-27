@@ -95,7 +95,7 @@ window.addEventListener("load", init);
 
 window.loadLink = (event) => {
   event.preventDefault();
-  const match = /\/spreadsheets\/d\/([a-zA-Z0-9-_]+).*(?:[#&]gid=([0-9]+))?/.exec(event.target.link.value);
+  const match = /\/spreadsheets\/d\/([a-zA-Z0-9-_]+)[^#&]*(?:[#&]gid=([0-9]+))?/.exec(event.target.link.value);
   if (!match) {
     window.alert("Invalid URL");
     return;
