@@ -1,0 +1,46 @@
+#container table {
+  border-collapse: collapse;
+}
+
+#container td {
+  border: 1px solid silver;
+  position: relative;
+}
+
+#container td span {
+  padding: 8px;
+}
+
+#container td iframe {
+  border: 0;
+  width: 120px;
+  height: 120px;
+}
+
+#container td:hover a {
+  display: block;
+}
+
+#container td a {
+  display: none;
+  text-decoration: none;
+  font-size: 0.5rem;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 1px 3px;
+  background-color: lightyellow;
+  color: gray;
+}
+
+#container td a:link {
+  color: gray;
+}
+
+#container td a:visited {
+  color: gray;
+}
+
+#container td a:hover {
+  color: black;
+}
