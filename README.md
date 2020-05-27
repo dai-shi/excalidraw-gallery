@@ -17,10 +17,11 @@ it will show the table with previews (which are animatable!).
 If the spreadsheet is protected, you will see a Google Sign-in
 popup to login. (Notice this app is not verified by Google.)
 
-## Example
+## Examples
 
 - Spredsheet URL: <https://docs.google.com/spreadsheets/d/17m0x0X3b0OGa_3vvSbwM4q5l68urXu-bfpf6dNWSNI0/edit#gid=0>
 - Excalidraw Gallery URL: <https://dai-shi.github.io/excalidraw-gallery/#spreadsheetId=17m0x0X3b0OGa_3vvSbwM4q5l68urXu-bfpf6dNWSNI0&gid=0>
 
 ## Tweets
 
+- [Initial annoucement](https://twitter.com/dai_shi/status/1265622487976431618)
