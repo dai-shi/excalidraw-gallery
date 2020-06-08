@@ -25,3 +25,8 @@ popup to login. (Notice this app is not verified by Google.)
 ## Tweets
 
 - [Initial annoucement](https://twitter.com/dai_shi/status/1265622487976431618)
+
+## Other projects with Excalidraw
+
+- [Excalidraw Animate](https://github.com/dai-shi/excalidraw-animate)
+- [Excalidraw Claymate](https://github.com/dai-shi/excalidraw-claymate)
