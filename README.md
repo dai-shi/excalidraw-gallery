@@ -31,3 +31,4 @@ popup to login. (Notice this app is not verified by Google.)
 
 - [Excalidraw Animate](https://github.com/dai-shi/excalidraw-animate)
 - [Excalidraw Claymate](https://github.com/dai-shi/excalidraw-claymate)
+- [Excalidraw Layers](https://github.com/dai-shi/excalidraw-layers)
