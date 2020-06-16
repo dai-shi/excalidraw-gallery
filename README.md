@@ -1,5 +1,9 @@
 # excalidraw-gallery
 
+<table><tr><td>
+<img alt="excalidraw-gallery" src="https://user-images.githubusercontent.com/490574/84725177-f493d000-afc4-11ea-92e0-be7f247b2ad8.gif" width="50%" />
+</td></tr></table>
+
 ## What is this
 
 This is an experimental tool to show
